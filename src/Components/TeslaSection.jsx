@@ -3,7 +3,7 @@ import img from "../assets/image 9smith.svg";
 import img1 from "../assets/Logo co.svg";
 import img2 from "../assets/Logo ipsum.svg";
 import img3 from "../assets/Logo roll.svg";
-import img4 from "../assets/vector.svg";
+import img4 from "../assets/Vector.svg";
 import img5 from "../assets/Logo infinity.svg";
 import img6 from "../assets/Logo ufo .svg";
 import { FaArrowRightLong } from "react-icons/fa6";
